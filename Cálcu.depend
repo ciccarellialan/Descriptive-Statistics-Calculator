@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1767321589 source:c:\users\wz\desktop\programación\trabajo practico\cálcu\main.cpp
+	<iostream>
+	"funciones.h"
+	"intervalos.h"
+	<iomanip>
+
+1767313312 c:\users\wz\desktop\programación\trabajo practico\cálcu\funciones.h
+	<vector>
+
+1767321407 source:c:\users\wz\desktop\programación\trabajo practico\cálcu\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<algorithm>
+	<cmath>
+	<iomanip>
+
+1767153599 c:\users\wz\desktop\programación\trabajo practico\cálcu\intervalos.h
+	<vector>
+	<utility>
+
+1767203362 source:c:\users\wz\desktop\programación\trabajo practico\cálcu\intervalos.cpp
+	"funciones.h"
+	"intervalos.h"
+	<cmath>
+	<vector>
+	<iostream>
+
+1768764432 source:c:\users\wz\desktop\cálcu 2\funciones.cpp
+	"funciones.h"
+	<iostream>
+	<algorithm>
+	<cmath>
+	<iomanip>
+
+1768765041 c:\users\wz\desktop\cálcu 2\funciones.h
+	<vector>
+	<string>
+
+1769537893 source:c:\users\wz\desktop\cálcu 2\main.cpp
+	<string>
+	<iostream>
+	<iomanip>
+	"funciones.h"
+	"intervalos.h"
+
+1769537893 c:\users\wz\desktop\cálcu 2\intervalos.h
+	<vector>
+	<utility>
+
+1769537893 source:c:\users\wz\desktop\cálcu 2\intervalos.cpp
+	"funciones.h"
+	"intervalos.h"
+	<cmath>
+	<vector>
+	<iostream>
+
+1782434693 source:c:\users\wz\desktop\git\funciones.cpp
+	"comun.h"
+	"funciones.h"
+	<iostream>
+	<algorithm>
+	<cmath>
+	<iomanip>
+
+1782434169 c:\users\wz\desktop\git\funciones.h
+	"comun.h"
+	<vector>
+	<string>
+
+1773971946 source:c:\users\wz\desktop\git\main.cpp
+	<string>
+	<iostream>
+	<iomanip>
+	"funciones.h"
+	"intervalos.h"
+
+1782434515 c:\users\wz\desktop\git\intervalos.h
+	"comun.h"
+	<vector>
+	<utility>
+
+1782435062 source:c:\users\wz\desktop\git\intervalos.cpp
+	"comun.h"
+	"funciones.h"
+	"intervalos.h"
+	<cmath>
+	<vector>
+	<iostream>
+
+1771906258 c:\users\wz\desktop\git\modulocomun.h
+	<iostream>
+	<vector>
+	<iomanip>
+	<algorithm>
+	<string>
+
+1782433947 c:\users\wz\desktop\git\comun.h
+	<iostream>
+	<vector>
+	<iomanip>
+	<algorithm>
+	<string>
+
+1772885281 source:c:\users\wz\desktop\git\comun.cpp
+	"comun.h"
+	<algorithm>
+	<vector>
+
